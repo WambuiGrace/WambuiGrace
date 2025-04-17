@@ -1,4 +1,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WambuiGrace&hide_progress=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WambuiGrace&repo=github-readme-stats)](https://github.com/WambuiGrace/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=WambuiGrace&show_icons=true&theme=radical)
 
